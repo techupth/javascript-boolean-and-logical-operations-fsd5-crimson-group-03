@@ -2,6 +2,7 @@
 
 //Start coding here
 let numberA = 100;
+
 const numberB = 20;
 
 numberA = 10;
